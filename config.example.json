@@ -1,0 +1,15 @@
+{
+  "universe_condition": "TV_TOP200",
+  "universe_refresh_min": 10,
+  "realtime_top_n": 80,
+  "max_positions": 2,
+  "entry_krw": 200000,
+  "entry_cutoff": "15:20",
+  "dry_run": false,
+  "force_close_start": "15:20",
+  "force_close_end": "15:25",
+  "force_loop_sec": 3,
+  "tr_sync_sec": 30,
+  "status_sec": 30,
+  "rt_keepalive_min": 5
+}
